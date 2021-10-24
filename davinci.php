@@ -14,7 +14,7 @@ print '
 <body>
 	<h1>Da Vincijev kod</h1>
 	<p>Da Vincijev kod je kriminalistički triler američkog pisca Dana Browna.<br>
-	<a href="https://hr.wikipedia.org/Da_Vincijev_kod" target="_blank">Wikipedia</a></p>
+	<a href="https://hr.wikipedia.org/wiki/Da_Vincijev_kod" target="_blank">Wikipedia</a></p>
 </body>
 </html>';
 ?>
